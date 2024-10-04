@@ -1,0 +1,17 @@
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  background-color: blue;
+  margin: 30px;
+  margin-bottom: 10px;
+
+}
+.todo-list{
+  margin: 20px;
+}
+.btn{
+  width: 120px;
+}
+.todo-item{
+  margin: 10px;
+}
